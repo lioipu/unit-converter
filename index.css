@@ -1,0 +1,100 @@
+
+@import url('https://fonts.cdnfonts.com/css/inter');
+                
+
+body {
+    margin: 0;
+    background-color: #F4F4F4;
+}
+
+#main {
+    display : flex;
+    flex-direction: column;;
+    justify-content: center;
+    background-color: #6943FF;
+    color: white;
+    font-family: Inter;
+    width: 550px;
+    height: 285px;
+    margin: 0px auto;
+
+
+}
+#main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 0px auto;
+
+}
+
+h1 {
+    margin: 0px auto;
+
+}
+
+input {
+    background-color: #6943FF;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    width: 117px;
+    height: 83px;
+    margin: 0px auto;
+    
+}
+
+input[type=text] {
+    padding:10px 24px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    font-family: Inter;
+
+}
+
+button {
+    width: 117px;
+    height: 42px;
+    margin: 0px auto;
+    border: none;
+    border-radius: 5px;
+    font-family: Inter;
+    background-color: white;
+}
+
+.unit {
+    font-family: Inter;
+    display: flex;
+    flex-direction: column;
+    margin: 36px auto;
+    background-color: white;
+    width: 500px;
+    height: 108;
+
+
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    margin: auto auto;
+
+}
+
+p {
+    margin: 5px auto;
+
+}
+
+.title {
+    font-weight: 600;
+    font-size: 20px;
+    color: #5A537B;
+}
+
+.content-convertion {
+    font-weight: 400;
+    font-size: 14px;
+    color: #353535;
+
+}
