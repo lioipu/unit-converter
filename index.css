@@ -4,7 +4,8 @@
 
 body {
     margin: 0;
-    background-color: #F4F4F4;
+    /* background-color: #F4F4F4; */
+    background-color: #1F2937;
 }
 
 #main {
@@ -67,7 +68,8 @@ button {
     display: flex;
     flex-direction: column;
     margin: 36px auto;
-    background-color: white;
+    /* background-color: white; */
+    background-color: #273549;
     width: 500px;
     height: 108;
 
@@ -89,12 +91,14 @@ p {
 .title {
     font-weight: 600;
     font-size: 20px;
-    color: #5A537B;
+    /* color: #5A537B; */
+    color: #CCC1FF;
 }
 
 .content-convertion {
     font-weight: 400;
     font-size: 14px;
-    color: #353535;
+    /* color: #353535; */
+    color: #FFFFFF;
 
 }
